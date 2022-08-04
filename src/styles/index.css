@@ -10,3 +10,49 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-image: url("https://media.istockphoto.com/photos/japanese-image-background-with-gold-splash-pattern-on-matte-black-picture-id1352407446?b=1&k=20&m=1352407446&s=170667a&w=0&h=HMnnvoiU1msBLEPsdT8bTuzsuiZgAFLHbhiACiSu9Zg=");
+    background-size: cover;
+   
+   }
+ h1{
+     color:rgb(246, 246, 249);
+     font-size: 50px;
+     
+ }
+ h5{
+    
+     width:700px;
+     height: 30px;
+     text-align: left;
+     color: white;
+     
+    
+ }
+ .container {
+     margin-top: 80px;
+     text-align: center; 
+     width: 600px;
+     height: 200px;
+    
+ }
+ 
+ #gato{
+     height: 35px;
+     width:35px;
+     }
+ 
+ button{
+     background-color: white;
+     border-color: rgb(255, 80, 80);
+    
+     
+ }
+ input{
+     margin-bottom: 50px;
+ }
+ #eliminar{
+     margin-left:50px ;
+      font-size:15px;
+ }
+ 
